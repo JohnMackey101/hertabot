@@ -3,7 +3,7 @@
     Developed by: Vexxations
     License: apache-2.0
     Finetuned from model : unsloth/llama-3-8b-Instruct-bnb-4bit
-    4bit and 8bit quantized GGUF files for Hertabot v0.1, a conversational chatbot finetuned from llama-3-8b-instruct for deploying on Discord. This is an incredibly early-stage model that will be replaced as soon as improvements are made - and there are PLENTY
+    This is Hertabot v0.1, a conversational Discord chatbot finetuned from llama-3-8b-instruct. This is an incredibly early-stage model that will be replaced as soon as improvements are made - and there are PLENTY
 
 # Current features:
 
