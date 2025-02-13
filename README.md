@@ -3,7 +3,9 @@
     Developed by: Vexxations
     License: apache-2.0
     Finetuned from model : unsloth/llama-3-8b-Instruct-bnb-4bit
-    This is Hertabot v0.1, a conversational Discord chatbot finetuned from llama-3-8b-instruct. This is an incredibly early-stage model that will be replaced as soon as improvements are made - and there are PLENTY
+    This is Hertabot v0.1, a conversational Discord chatbot finetuned from llama-3-8b-instruct. 
+    This is an incredibly early-stage model that will be replaced as soon as improvements 
+    are made - and there are PLENTY
 
 # Current features:
 
