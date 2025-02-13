@@ -1,0 +1,5 @@
+# requirements.txt
+huggingface-hub>=0.20.2  # For model downloads
+llama-cpp-python[server]>=0.2.23  # For GGUF model support
+discord.py>=2.3.2                 # Discord API wrapper
+python-dotenv>=1.0.0              # For secret management 
